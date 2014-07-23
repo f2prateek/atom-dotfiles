@@ -2,8 +2,8 @@
   'fontSize': 16
 'core':
   'themes': [
-    'atom-dark-ui'
-    'atom-dark-syntax'
+    'solarized-dark-ui'
+    'solarized-dark-syntax'
   ]
 'exception-reporting':
   'userId': '60aa034f-6ec0-c224-6d9e-572fe4b68171'
